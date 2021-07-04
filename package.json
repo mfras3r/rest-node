@@ -1,0 +1,22 @@
+{
+  "name": "restful-node",
+  "version": "1.0.0",
+  "description": "Code developed while interacting with the PluralSight \"RESTful Web Services with Node.js and Express\" course by Jonathan Mills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfras3r/restful-node.git"
+  },
+  "author": "Michael Fraser (mfras3r)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfras3r/restful-node/issues"
+  },
+  "homepage": "https://github.com/mfras3r/restful-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
